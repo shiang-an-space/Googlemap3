@@ -11,9 +11,9 @@
     <meta name="keywords" content="葬儀服務, 禮儀公司, 台北葬儀公司, 新北葬儀公司, 桃園葬儀公司, 中壢葬儀公司, 基隆葬儀公司, 喪禮服務, 客制化禮儀, 佛教葬禮, 天主教葬禮, 基督教葬禮, 道教葬禮, 日蓮正宗葬禮, 創價學會葬禮, 祥安生命有限公司, 塔位带看, 台北, 新北, 桃園, 中壢, 基隆, 葬儀, 葬禮, 喪禮, funeral services, funeral home, Taipei funeral home, New Taipei funeral home, Taoyuan funeral home, Zhongli funeral home, Keelung funeral home, custom funeral services, Buddhist funeral, Catholic funeral, Christian funeral, Taoist funeral, Nichiren Shoshu funeral, Soka Gakkai funeral, memorial service, burial service, cremation service, pre-planning funeral, funeral arrangement, grief support, funeral planning, funeral ceremony, burial plot viewing, 24-hour funeral service, funeral home near me">
 
     <!-- Open Graph Meta Tags for Facebook -->
-    <meta property="og:title" content="祥安生命有限公司">
+    <meta property="og:title" content="祥安生命有限公司—陳柏元">
     <meta property="og:description" content="祥安生命有限公司提供24小時專業的禮儀服務，包括台北、新北、桃園、中壢和基隆等地區的葬儀服務、塔位帶看和客制化禮儀安排。">
-    <meta property="og:url" content="https://yourusername.github.io/google-map2">
+    <meta property="og:url" content="https://shiang-an-space.github.io/Googlemap3/">
     <meta property="og:type" content="website">
     <meta property="og:image" content="URL_TO_YOUR_IMAGE">
 
@@ -22,7 +22,7 @@
     {
       "@context": "https://schema.org",
       "@type": "FuneralHome",
-      "name": "祥安生命有限公司",
+      "name": "祥安生命有限公司-陳柏元",
       "address": {
         "@type": "PostalAddress",
         "streetAddress": "新北市三重區永福街135巷13號",
