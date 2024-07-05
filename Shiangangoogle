@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html lang="zh-TW">
 <head>
-<head>
     <meta charset="UTF-8">
     <title>祥安生命有限公司（禮儀公司） - 台北、新北、桃園、中壢和基隆的禮儀服務專家</title>
     <meta name="description" content="祥安生命有限公司提供24小時禮儀服務，包括台北、新北、桃園、中壢和基隆的葬儀服務、塔位帶看和客制化禮儀安排。">
@@ -11,11 +10,15 @@
     <meta property="og:description" content="祥安生命有限公司提供24小時禮儀服務，包括台北、新北、桃園、中壢和基隆等地區的葬儀服務、塔位帶看和客制化禮儀安排。">
     <meta property="og:url" content="https://maps.app.goo.gl/rTi2PqmywgTxu1Qi7?g_st=com.google.maps.preview.copy">
     <meta property="og:type" content="website">
+     <!-- OG tags -->
+    <meta property="og:title" content="三重葬儀社推薦 | 祥安生命有限公司（禮儀公司）">
+    <meta property="og:description" content="祥安生命有限公司提供24小时禮儀服務，包括三重葬儀社和周邊地區的葬儀服務、塔位帶看和客制化禮儀安排。">
+    <meta property="og:url" content="https://maps.app.goo.gl/rTi2PqmywgTxu1Qi7?g_st=com.google.maps.preview.copy">
+    <meta property="og:type" content="https://maps.app.goo.gl/rTi2PqmywgTxu1Qi7?g_st=com.google.maps.preview.copy">
+
 </head>
 <body>
-    <!-- 此處可以不用添加具體內容，因為您希望直接優化 Google 地圖的頁面 -->
 
-    <!-- 提供一個直接連結到您的 Google 地圖頁面 -->
     <a href="https://maps.app.goo.gl/rTi2PqmywgTxu1Qi7?g_st=com.google.maps.preview.copy" target="_blank" rel="noopener noreferrer">查看我們在 Google 地圖上的位置</a>
 </body>
 </html>
