@@ -3,26 +3,33 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>祥安生命有限公司 - 台北、新北、桃園、中壢和基隆的禮儀服務專家</title>
-    <link rel="stylesheet" href="css/styles.css">
-    
-    <!-- SEO Meta Tags -->
+    <title>台北、新北、桃園、中壢和基隆的禮儀服務專家 - 祥安生命有限公司</title>
     <meta name="description" content="祥安生命有限公司，專業禮儀公司，提供24小時禮儀服務，包括台北、新北、桃園、中壢和基隆的葬儀服務、塔位帶看和客制化禮儀安排。">
     <meta name="keywords" content="葬儀服務, 禮儀公司, 台北葬儀公司, 新北葬儀公司, 桃園葬儀公司, 中壢葬儀公司, 基隆葬儀公司, 喪禮服務, 客制化禮儀, 佛教葬禮, 天主教葬禮, 基督教葬禮, 道教葬禮, 日蓮正宗葬禮, 創價學會葬禮, 祥安生命有限公司, 塔位带看, 台北, 新北, 桃園, 中壢, 基隆, 葬儀, 葬禮, 喪禮, funeral services, funeral home, Taipei funeral home, New Taipei funeral home, Taoyuan funeral home, Zhongli funeral home, Keelung funeral home, custom funeral services, Buddhist funeral, Catholic funeral, Christian funeral, Taoist funeral, Nichiren Shoshu funeral, Soka Gakkai funeral, memorial service, burial service, cremation service, pre-planning funeral, funeral arrangement, grief support, funeral planning, funeral ceremony, burial plot viewing, 24-hour funeral service, funeral home near me">
-
+    
     <!-- Open Graph Meta Tags for Facebook -->
-    <meta property="og:title" content="祥安生命有限公司—陳柏元">
+    <meta property="og:title" content="祥安生命有限公司 - 台北、新北、桃園、中壢和基隆的禮儀服務專家">
     <meta property="og:description" content="祥安生命有限公司提供24小時專業的禮儀服務，包括台北、新北、桃園、中壢和基隆等地區的葬儀服務、塔位帶看和客制化禮儀安排。">
     <meta property="og:url" content="https://shiang-an-space.github.io/Googlemap3/">
-    <meta property="og:type" content="https://www.facebook.com/shianganlife?mibextid=LQQJ4d">
-    <meta property="og:image" content="https://www.facebook.com/share/9H5oweKQQAxTRCFc/?mibextid=WC7FNe">
-
+    <meta property="og:type" content="website">
+    <meta property="og:image" content="https://www.example.com/your-image.jpg">
+    
+    <!-- Twitter Meta Tags -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="祥安生命有限公司 - 台北、新北、桃園、中壢和基隆的禮儀服務專家">
+    <meta name="twitter:description" content="祥安生命有限公司提供24小時專業的禮儀服務，包括台北、新北、桃園、中壢和基隆等地區的葬儀服務、塔位帶看和客制化禮儀安排。">
+    <meta name="twitter:image" content="https://www.example.com/your-image.jpg">
+    
+    <!-- CSS Stylesheet -->
+    <link rel="stylesheet" href="css/styles.css">
+    
     <!-- JSON-LD 結構化數據 -->
     <script type="application/ld+json">
     {
       "@context": "https://schema.org",
       "@type": "FuneralHome",
-      "name": "祥安生命有限公司-陳柏元",
+      "name": "祥安生命有限公司",
+      "url": "https://shiang-an-space.github.io/Googlemap3/",
       "address": {
         "@type": "PostalAddress",
         "streetAddress": "新北市三重區永福街135巷13號",
@@ -36,8 +43,7 @@
         "latitude": "25.033964",
         "longitude": "121.564468"
       },
-      "url": "https://maps.app.goo.gl/uNqMCVc3WyvD2Bj77?g_st=com.google.maps.preview.copy",
-      "telephone": "0938179858",
+      "telephone": "+886938179858",
       "openingHours": "Mo-Su 00:00-24:00",
       "description": "祥安生命有限公司提供24小時專業的禮儀服務，包括台北、新北、桃園、中壢和基隆等地區的葬儀服務、塔位帶看和客制化禮儀安排。"
     }
@@ -49,8 +55,19 @@
     </header>
     <main>
         <section>
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <!-- 省略部分頭部元素 -->
+</head>
+<body>
+    <header>
+        <h1>祥安生命有限公司（禮儀公司）</h1>
+    </header>
+    <main>
+        <section>
             <h2>我們的服務</h2>
-            <p>祥安生命有限公司提供24小時專業的禮儀服務，包括台北、新北、桃園、中壢和基隆等地區的葬儀服務、塔位帶看和客制化禮儀安排。我們致力於提供優質、貼心的禮儀服務。</p>
+            <p>祥安生命有限公司提供24小時專業的禮儀服務，包括台北、新北、桃園、中壢和基隆等地區的葬儀服務、塔位帶看和客制化禮儀安排。我們致力於提供質、貼心的禮儀服務。</p>
             <ul>
                 <li>台北地區的推薦禮儀公司</li>
                 <li>新北地區的推薦禮儀公司</li>
@@ -62,19 +79,12 @@
         <section>
             <h2>聯繫我們</h2>
             <p>如有任何疑問或需求，請聯繫我們：</p>
-            <p>Line 加入電話號碼 0938179858</p>
+            <p>Line <a href="@marco700716">0938179858</a></p>
             <p>24小時禮儀電話 0938179858</p>
-            <div id="map-container">
-                <iframe 
-                    src="https://maps.app.goo.gl/uNqMCVc3WyvD2Bj77?g_st=com.google.maps.preview.copy"
-                    width="600" 
-                    height="450" 
-                    style="border:0;" 
-                    allowfullscreen="" 
-                    loading="lazy">
-                </iframe>
-            </div>
         </section>
     </main>
+    <footer>
+        <p>祥安生命有限公司 - 台北、新北、桃園、中壢和基隆的禮儀服務專家</p>
+    </footer>
 </body>
-</html>
+</html>            
