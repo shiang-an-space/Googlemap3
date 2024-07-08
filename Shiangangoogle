@@ -15,6 +15,6 @@
 </head>
 <body>
 
-    <a href="https://maps.app.goo.gl/rTi2PqmywgTxu1Qi7?g_st=com.google.maps.preview.copy" target="_blank" rel="noopener noreferrer">查看我們在 Google 地圖上的位置</a>
+    <a href="<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d7227.466383767685!2d121.4782466!3d25.0770307!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3442a8c514e6ec07%3A0xbeb426d25d046c4!2z56Wl5a6J55Sf5ZG95pyJ6ZmQ5YWs5Y-477yI56au5YSA5YWs5Y-477yJ!5e0!3m2!1sen!2stw!4v1720416156839!5m2!1sen!2stw" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>" target="_blank" rel="noopener noreferrer">查看我們在 Google 地圖上的位置</a>
 </body>
 </html>
